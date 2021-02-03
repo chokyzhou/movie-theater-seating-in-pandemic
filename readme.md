@@ -2,6 +2,8 @@
 
 This is a quick project of the movie theater challenge. In this scenario, the question asks to implement an algorithm that fulfils reservation requests and places customers in a theater with 10 by 20 seats. Every reserved group should be separated by 3 seats and/or a row.
 
+Please unzip 'test.zip' for prebuilt test cases.
+
 
 # Usage
 
